@@ -1,5 +1,10 @@
-# 💫 About Me:
-Sou um profissional com formação em Ciência Política e cursando MBA em Marketing, especializado em utilizar uma abordagem multidisciplinar para transformar dados complexos em soluções inovadoras e data-driven.<br>Busco aplicar minhas habilidades em Python, SQL e Business Intelligence (Power BI, Looker Studio) para gerar insights acionáveis em tempo real, otimizar a gestão de propriedades, a satisfação dos hóspedes e as estratégias de marketing digital. Tenho experiência na automatização de processos (redução de 70% no tempo) e na consolidação de dados heterogêneos (APIs e dados abertos), essenciais para o crescimento de um negócio ágil.
+# 💫 Sobre mim:
+Apaixonado por dados em Ciência Política pela UFPE, viciado em estratégias no MBA em Marketing pela UPE, e alfabetizado pelo NeXT da Cesar School.
+
+Minha trajetória é marcada por uma visão multidisciplinar, unindo tecnologia, análise de dados e estratégia para transformar informações em insights e soluções inovadoras. Acredito que dados contam histórias, e meu objetivo é contar o que eles querem dizer. Por isso, busco sempre evoluir minhas habilidades e fortalecer minha atuação em áreas como:
+Python | SQL | R | Power BI | Google Cloud
+
+Atualmente, atuo como Analista de Dados na Secretaria de Cultura da Prefeitura do Recife, onde desenvolvo automações, dashboards e fluxos de dados que apoiam a política pública baseada em evidências. Minha meta é continuar crescendo na área de Data Analytics e BI, conectando dados, pessoas e propósito.
 
 
 ## 🌐 Socials:
